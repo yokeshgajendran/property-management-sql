@@ -145,7 +145,6 @@ This project demonstrates:
 - MySQL
 - SQL
 - IntelliJ IDEA
-- SQL Studio
 - Docker (for local database setup)
 
 ---
